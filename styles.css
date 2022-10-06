@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(217, 229, 248);
+    border:rgba(87, 87, 219, 0.514) 2.5px solid;
+}
+
+h1 {
+    text-align:center;
+    color:rgb(87, 87, 219);
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    text-shadow: 1px 1px darkblue;
+    font-size: 36px;    
+}
+
+img {
+    height: 200px;
+    width: auto;
+    border: 10px cornflowerblue;
+    border-style: groove;
+    }
+
+h3 {
+    color:rgb(37, 37, 87);
+    text-align: left;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    }
+
+li {
+    color:rgb(87, 87, 219);
+    font-size: 18px;
+    }
+.link {
+    border: 1px midnightblue;
+    background-color:orange;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgb(37, 37, 87);
+    text-align: left;
+    }
