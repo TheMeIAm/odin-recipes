@@ -18,7 +18,11 @@ img {
     width: auto;
     border: 10px cornflowerblue;
     border-style: groove;
+    text-align: right;
     }
+.floatright {
+    text-align:right;
+}
 
 .note {
     color:rgb(87, 87, 219);
@@ -46,7 +50,7 @@ li {
     color:rgb(37, 37, 87);
     font-size: 18px;
     }
-.link {
+a.link {
     border: 1px midnightblue;
     background-color:orange;
     font-weight: bold;
