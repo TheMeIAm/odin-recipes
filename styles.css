@@ -1,6 +1,7 @@
 body {
     background-color: rgb(217, 229, 248);
-    border:rgba(87, 87, 219, 0.514) 2.5px solid;
+    border:rgb(87, 87, 219) 2.5px solid;
+    padding: 30px
 }
 
 h1 {
@@ -19,15 +20,30 @@ img {
     border-style: groove;
     }
 
+.note {
+    color:rgb(87, 87, 219);
+    text-align: center;
+    
+}
+
+h2,
 h3 {
     color:rgb(37, 37, 87);
     text-align: left;
     font-family:'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-weight: bold;
     }
 
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
 li {
-    color:rgb(87, 87, 219);
+    color:rgb(37, 37, 87);
     font-size: 18px;
     }
 .link {
@@ -35,6 +51,8 @@ li {
     background-color:orange;
     font-weight: bold;
     font-size: 12px;
-    color: rgb(37, 37, 87);
+    color: rgb(87, 87, 219);
     text-align: left;
     }
+
+    
